@@ -1,4 +1,4 @@
-# PySnake Game
+# Snake Game
 
 ## Description
 PySnake is a simple snake game implemented using Python and the Pygame library. The objective of the game is to control a snake, consume food, and grow in size while avoiding collisions with the walls and itself.
